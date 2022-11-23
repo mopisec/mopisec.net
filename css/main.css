@@ -27,24 +27,21 @@ details { margin-bottom: 20px; }
     -ms-user-select: none;
 }
 
+.act-label a:hover { color: #ffa500; }
+
 .act2022 a { color: #000080; }
-.act2022 a:hover { color: #ffa500; }
 .act2022 { color: #000080; }
 
 .act2021 a { color: #2f4f4f; }
-.act2021 a:hover { color: #ffa500; }
 .act2021 { color: #2f4f4f; }
 
 .act2020 a { color: #483d8b; }
-.act2020 a:hover { color: #ffa500; }
 .act2020 { color: #483d8b; }
 
 .act2019 a { color: #708090; }
-.act2019 a:hover { color: #ffa500; }
 .act2019 { color: #708090; }
 
 .act2018 a { color: #696969; }
-.act2018 a:hover { color: #ffa500; }
 .act2018 { color: #696969; }
 
 .bi-icon { margin: 0 10px; }
