@@ -12,6 +12,7 @@ details { margin-bottom: 20px; }
 .rar { text-align: right; }
 .act a { text-decoration: none; }
 .act-row { margin-bottom: 10px; }
+.act-row:hover { background-color: #fffaf0; }
 .act-label { padding-left: 33px; }
 
 .delim {
