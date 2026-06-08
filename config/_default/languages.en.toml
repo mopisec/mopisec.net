@@ -1,0 +1,26 @@
+locale = "en"
+label = "English"
+direction = "ltr"
+weight = 1
+
+title = "Naoki Takayama"
+copyright = "Copyright © Naoki Takayama"
+
+[params]
+  dateFormat = "2 January 2006"
+
+  # mainSections = ["section1", "section2"]
+  # description = "My awesome website"
+
+[params.author]
+  name = "Naoki Takayama"
+  image = "img/public_icon.png"
+  headline = "Security Researcher"
+  bio = "Malware Analysis | Digital Forensics | Threat Research"
+  links = [
+    { email = "mailto:moppoi5168[at]gmail[dot]com" },
+    { facebook = "https://facebook.com/mopisec" },
+    { github = "https://github.com/mopisec" },
+    { linkedin = "https://linkedin.com/in/mopisec" },
+    { x-twitter = "https://x.com/mopisec" },
+  ]
