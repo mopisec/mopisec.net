@@ -9,7 +9,7 @@ layout: "simple"
 Naoki Takayama is a security researcher specialized in digital forensics, malware analysis, and threat research. He is engaged in researching malware and tactics used for APT campaigns targeting Asia. He has spoken at conferences such as BSides Tokyo, VB, and JSAC in the past.
 {{< /lead >}}
 
-## Positions
+## Position
 
 {{< alert "circle-info" >}}
 **Security Researcher**  
@@ -17,7 +17,7 @@ Full-Time (2025 - Present) | Part-Time (2023 - 2025)
 Internet Initiative Japan Inc.
 {{< /alert >}}
 
-## Educations
+## Education
 
 {{< alert "bars" >}}
 **Bachelor of Information Engineering**  
