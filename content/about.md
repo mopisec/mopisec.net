@@ -164,7 +164,7 @@ https://sect.iij.ad.jp/blog/2025/06/ransomware-nailaolocker/
 ## Other Activities
 
 {{< alert "check" >}}
-**Security Camp Committee**  
+**Security Camp Steering Committee**  
 International Co-op Working Group Member (2020 - Present)  
 https://www.security-camp.or.jp/outline/index.html
 {{< /alert >}}
