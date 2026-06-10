@@ -6,7 +6,7 @@ layout: "simple"
 {{< profile align="center" >}}
 
 {{< lead >}}
-Naoki Takayama is a security researcher specialized in digital forensics, malware analysis, and threat research. He is engaged in researching malware and tactics used for APT campaigns targeting Asia. He has spoken at conferences such as BSides Tokyo, VB, and JSAC in the past.
+Naoki Takayama is a security researcher specialized in digital forensics, malware analysis, and threat research. He is engaged in researching malware and tactics used for APT campaigns targeting Southeast Asia. He has spoken at conferences such as BSides Tokyo, VB, and JSAC in the past.
 {{< /lead >}}
 
 ## Position
