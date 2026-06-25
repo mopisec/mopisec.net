@@ -58,6 +58,13 @@ BSides Tokyo 2023
 ## Publications
 
 {{< alert "pencil" >}}
+**LOTSを活用して進化を続けるKimJongRAT**
+https://sect.iij.ad.jp/blog/2026/06/continuous-evolution-of-kimjongrat-2026/
+{{< /alert >}}
+
+#### 
+
+{{< alert "pencil" >}}
 **BOFの実行などに対応した新たなマルウェアSLOTAGENT**  
 https://sect.iij.ad.jp/blog/2026/04/slotagent/
 {{< /alert >}}
