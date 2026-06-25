@@ -58,7 +58,7 @@ BSides Tokyo 2023
 ## Publications
 
 {{< alert "pencil" >}}
-**LOTSを活用して進化を続けるKimJongRAT**
+**LOTSを活用して進化を続けるKimJongRAT**  
 https://sect.iij.ad.jp/blog/2026/06/continuous-evolution-of-kimjongrat-2026/
 {{< /alert >}}
 
