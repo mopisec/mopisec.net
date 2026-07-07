@@ -58,6 +58,13 @@ BSides Tokyo 2023
 ## Publications
 
 {{< alert "pencil" >}}
+**38th Annual FIRST Conference 登壇発表レポート**  
+https://sect.iij.ad.jp/blog/2026/07/38th-annual-first-conference/
+{{< /alert >}}
+
+#### 
+
+{{< alert "pencil" >}}
 **LOTSを活用して進化を続けるKimJongRAT**  
 https://sect.iij.ad.jp/blog/2026/06/continuous-evolution-of-kimjongrat-2026/
 {{< /alert >}}
