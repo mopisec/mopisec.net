@@ -58,6 +58,13 @@ BSides Tokyo 2023
 ## Publications
 
 {{< alert "pencil" >}}
+**APTグループが使用するBlueShell亜種の分析**  
+https://sect.iij.ad.jp/blog/2026/07/blueshell-variant-deployed-by-apt-group/
+{{< /alert >}}
+
+#### 
+
+{{< alert "pencil" >}}
 **38th Annual FIRST Conference 登壇発表レポート**  
 https://sect.iij.ad.jp/blog/2026/07/38th-annual-first-conference/
 {{< /alert >}}
