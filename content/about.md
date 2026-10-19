@@ -26,6 +26,22 @@ College of Information Science, University of Tsukuba (April 2021 - March 2025)
 ## Presentations
 
 {{< alert "comment" >}}
+**(Private Session)**  
+RISEx Tokyo 2026  
+[Website](https://www.team-cymru.com/events/risex-tokyo)
+{{< /alert >}}
+
+#### 
+
+{{< alert "comment" >}}
+**Dawn of Ninja Era: unmasking a malware distribution campaign linked to DPRK IT workers network**  
+VB2026 Seville  
+[Abstract](https://www.first.org/conference/2026/program)
+{{< /alert >}}
+
+#### 
+
+{{< alert "comment" >}}
 **Itinerary to Defeat Yet Another Beacon Implementation**  
 38th Annual FIRST Conference  
 [Abstract](https://www.first.org/conference/2026/program)
@@ -56,6 +72,14 @@ BSides Tokyo 2023
 {{< /alert >}}
 
 ## Publications
+
+
+{{< alert "pencil" >}}
+**PIVOTPIPE: 新たな.NET製の非公式Beaconペイロード**  
+https://sect.iij.ad.jp/blog/2026/09/pivotpipe/
+{{< /alert >}}
+
+#### 
 
 {{< alert "pencil" >}}
 **APTグループが使用するBlueShell亜種の分析**  
