@@ -26,7 +26,7 @@ College of Information Science, University of Tsukuba (April 2021 - March 2025)
 ## Presentations
 
 {{< alert "comment" >}}
-**(Private Session)**  
+**Private Session**  
 RISEx Tokyo 2026  
 [Website](https://www.team-cymru.com/events/risex-tokyo)
 {{< /alert >}}
