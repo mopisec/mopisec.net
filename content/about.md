@@ -13,7 +13,7 @@ Naoki Takayama is a security researcher specialized in digital forensics, malwar
 
 {{< alert "circle-info" >}}
 **Security Researcher**  
-Internet Initiative Japan Inc. (July 2023 - Present)
+IIJ-SECT @ Internet Initiative Japan Inc. (July 2023 - Present)
 {{< /alert >}}
 
 ## Education
