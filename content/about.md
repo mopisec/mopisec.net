@@ -78,6 +78,8 @@ BSides Tokyo 2023
 https://sect.iij.ad.jp/blog/2026/10/linux-noodlerat-executed-by-fud-loader/
 {{< /alert >}}
 
+#### 
+
 {{< alert "pencil" >}}
 **PIVOTPIPE: 新たな.NET製の非公式Beaconペイロード**  
 https://sect.iij.ad.jp/blog/2026/09/pivotpipe/
