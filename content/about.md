@@ -242,12 +242,3 @@ https://www.nri-secure.co.jp/event/2023/netwars
 1st Place  
 https://www.seccon.jp/2021/ep211218.html#d102
 {{< /alert >}}
-
-#### 
-
-{{< alert "check" >}}
-**Security Camp Award 2021**  
-Special Award  
-https://www.security-camp.or.jp/event/award2021.html
-{{< /alert >}}
-
