@@ -36,7 +36,7 @@ RISEx Tokyo 2026
 {{< alert "comment" >}}
 **Dawn of Ninja Era: unmasking a malware distribution campaign linked to DPRK IT workers network**  
 VB2026 Seville  
-[Abstract](https://www.first.org/conference/2026/program)
+[Abstract](https://virusbulletin.com/conference/vb2026/abstracts/dawn-ninja-era-unmasking-malware-distribution-campaign-linked-dprk-it-workers-network/)
 {{< /alert >}}
 
 #### 
